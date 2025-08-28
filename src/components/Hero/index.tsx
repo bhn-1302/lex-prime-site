@@ -19,7 +19,7 @@ export const HeroSection = () => {
       </div>
 
       <motion.img 
-        src="public/images/simbolo-direito2.png"
+        src="/images/simbolo-direito2.png"
         alt="Símbolo do Direito"
         className="max-w-sm" 
         animate={{x: [0, -10, 0]}}

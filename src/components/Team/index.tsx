@@ -8,19 +8,19 @@ const teamMembers: TeamMember[] = [
   {
     name: "Dr. João Silva",
     role: "Sócio Fundador • Direito Empresarial",
-    image: "public/images/advogado2.png",
+    image: "/images/advogado2.png",
   },
 
   {
     name: "Dra. Maria Souza",
     role: "Especialista em Contratos",
-    image: "public/images/advogado1.png",
+    image: "/images/advogado1.png",
   },
 
   {
     name: "Dra. Julia Perez",
     role: "Propriedade Intelectual",
-    image: "public/images/advogado3.png",
+    image: "/images/advogado3.png",
   },
 ];
 
